@@ -5,7 +5,10 @@
            ![views](https://komarev.com/ghpvc/?username=ze&label=Are U feeling facty?&color=52265a&style=plastic&abbreviated=true)
 
 
-                        <img width="420" height="420" alt="Untitled105_20261008062454" src="https://github.com/user-attachments/assets/448658fb-c49e-425e-b234-57ba75460838" />
+                        <img width="420" height="420" alt="Untitled105_20261010203200" src="https://github.com/user-attachments/assets/e01ebceb-c377-41d5-938c-002e287b430b" />
+
+
+
 
 
 </p>
