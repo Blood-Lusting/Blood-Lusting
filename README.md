@@ -21,7 +21,7 @@
 
 
 </p>  
-  <img src="https://readme-typing-svg.demolab.com/?lines=You+could+cause+you+can+so+you+do,;we're+feeling+so+good+just+the+way+we+do.;&font=GentleHearts%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=190a31" alt="Example Usage - Me">
+  <img src="https://readme-typing-svg.demolab.com/?lines=You+could+cause+you+can+so+you+do,;we're+feeling+so+good+just+the+way+we+do.;&font=GentleHearts%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=735675" alt="Example Usage - Me">
 
   
 
