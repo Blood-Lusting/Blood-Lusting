@@ -2,7 +2,7 @@
        <img src="https://readme-typing-svg.demolab.com/?lines=Cause+it's+nine+in+the+afternoon,;and+your+eyes+are+the+size+of+the+moon.;&font=GentleHearts%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=735675" alt="Example Usage - Me">
 
 ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-           ![views](https://komarev.com/ghpvc/?username=ze&label=Are U feeling facty?&color=38183f&style=plastic&abbreviated=true)
+           ![views](https://komarev.com/ghpvc/?username=ze&label=Proxies&color=38183f&style=plastic&abbreviated=true)
 
 
                         <img width="420" height="420" alt="Untitled101_20261013194920" src="https://github.com/user-attachments/assets/2e27655b-f443-4736-9c0f-1ebb62e29893" />
